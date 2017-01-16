@@ -1,0 +1,11 @@
+C:\Users\Eli\Documents\Visual Studio 2013\Projects\Ezreal - The prodigal explorer\Ezreal - The prodigal explorer\bin\Release\Ezreal - The prodigal explorer.exe.config
+C:\Users\Eli\Documents\Visual Studio 2013\Projects\Ezreal - The prodigal explorer\Ezreal - The prodigal explorer\bin\Release\Ezreal - The prodigal explorer.exe
+C:\Users\Eli\Documents\Visual Studio 2013\Projects\Ezreal - The prodigal explorer\Ezreal - The prodigal explorer\bin\Release\Ezreal - The prodigal explorer.pdb
+C:\Users\Eli\Documents\Visual Studio 2013\Projects\Ezreal - The prodigal explorer\Ezreal - The prodigal explorer\bin\Release\EloBuddy.dll
+C:\Users\Eli\Documents\Visual Studio 2013\Projects\Ezreal - The prodigal explorer\Ezreal - The prodigal explorer\bin\Release\EloBuddy.SDK.dll
+C:\Users\Eli\Documents\Visual Studio 2013\Projects\Ezreal - The prodigal explorer\Ezreal - The prodigal explorer\bin\Release\SharpDX.dll
+C:\Users\Eli\Documents\Visual Studio 2013\Projects\Ezreal - The prodigal explorer\Ezreal - The prodigal explorer\bin\Release\SharpDX.Direct3D9.dll
+C:\Users\Eli\Documents\Visual Studio 2013\Projects\Ezreal - The prodigal explorer\Ezreal - The prodigal explorer\bin\Release\EloBuddy.Sandbox.dll
+C:\Users\Eli\Documents\Visual Studio 2013\Projects\Ezreal - The prodigal explorer\Ezreal - The prodigal explorer\bin\Release\Newtonsoft.Json.dll
+C:\Users\Eli\Documents\Visual Studio 2013\Projects\Ezreal - The prodigal explorer\Ezreal - The prodigal explorer\obj\Release\Ezreal - The prodigal explorer.exe
+C:\Users\Eli\Documents\Visual Studio 2013\Projects\Ezreal - The prodigal explorer\Ezreal - The prodigal explorer\obj\Release\Ezreal - The prodigal explorer.pdb
