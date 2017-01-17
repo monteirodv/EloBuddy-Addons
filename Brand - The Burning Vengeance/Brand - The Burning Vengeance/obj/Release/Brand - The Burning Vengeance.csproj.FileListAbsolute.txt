@@ -1,0 +1,12 @@
+C:\Users\Eli\Documents\Visual Studio 2013\Projects\Brand - The Burning Vengeance\Brand - The Burning Vengeance\bin\Release\Brand - The Burning Vengeance.exe.config
+C:\Users\Eli\Documents\Visual Studio 2013\Projects\Brand - The Burning Vengeance\Brand - The Burning Vengeance\bin\Release\Brand - The Burning Vengeance.exe
+C:\Users\Eli\Documents\Visual Studio 2013\Projects\Brand - The Burning Vengeance\Brand - The Burning Vengeance\bin\Release\Brand - The Burning Vengeance.pdb
+C:\Users\Eli\Documents\Visual Studio 2013\Projects\Brand - The Burning Vengeance\Brand - The Burning Vengeance\bin\Release\EloBuddy.dll
+C:\Users\Eli\Documents\Visual Studio 2013\Projects\Brand - The Burning Vengeance\Brand - The Burning Vengeance\bin\Release\EloBuddy.SDK.dll
+C:\Users\Eli\Documents\Visual Studio 2013\Projects\Brand - The Burning Vengeance\Brand - The Burning Vengeance\bin\Release\SharpDX.dll
+C:\Users\Eli\Documents\Visual Studio 2013\Projects\Brand - The Burning Vengeance\Brand - The Burning Vengeance\bin\Release\SharpDX.Direct3D9.dll
+C:\Users\Eli\Documents\Visual Studio 2013\Projects\Brand - The Burning Vengeance\Brand - The Burning Vengeance\bin\Release\EloBuddy.Sandbox.dll
+C:\Users\Eli\Documents\Visual Studio 2013\Projects\Brand - The Burning Vengeance\Brand - The Burning Vengeance\bin\Release\Newtonsoft.Json.dll
+C:\Users\Eli\Documents\Visual Studio 2013\Projects\Brand - The Burning Vengeance\Brand - The Burning Vengeance\obj\Release\Brand - The Burning Vengeance.csprojResolveAssemblyReference.cache
+C:\Users\Eli\Documents\Visual Studio 2013\Projects\Brand - The Burning Vengeance\Brand - The Burning Vengeance\obj\Release\Brand - The Burning Vengeance.exe
+C:\Users\Eli\Documents\Visual Studio 2013\Projects\Brand - The Burning Vengeance\Brand - The Burning Vengeance\obj\Release\Brand - The Burning Vengeance.pdb
