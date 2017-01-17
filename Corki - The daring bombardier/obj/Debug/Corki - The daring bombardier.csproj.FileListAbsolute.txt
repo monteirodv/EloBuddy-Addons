@@ -1,0 +1,12 @@
+c:\users\eli\documents\visual studio 2013\Projects\Corki - The daring bombardier\Corki - The daring bombardier\bin\Debug\Corki - The daring bombardier.exe.config
+C:\Users\Eli\Documents\Visual Studio 2013\Projects\Corki - The daring bombardier\Corki - The daring bombardier\obj\Debug\Corki - The daring bombardier.csprojResolveAssemblyReference.cache
+C:\Users\Eli\Documents\Visual Studio 2013\Projects\Corki - The daring bombardier\Corki - The daring bombardier\bin\Debug\Corki - The daring bombardier.exe
+C:\Users\Eli\Documents\Visual Studio 2013\Projects\Corki - The daring bombardier\Corki - The daring bombardier\bin\Debug\Corki - The daring bombardier.pdb
+C:\Users\Eli\Documents\Visual Studio 2013\Projects\Corki - The daring bombardier\Corki - The daring bombardier\bin\Debug\EloBuddy.dll
+C:\Users\Eli\Documents\Visual Studio 2013\Projects\Corki - The daring bombardier\Corki - The daring bombardier\bin\Debug\EloBuddy.SDK.dll
+C:\Users\Eli\Documents\Visual Studio 2013\Projects\Corki - The daring bombardier\Corki - The daring bombardier\bin\Debug\SharpDX.dll
+C:\Users\Eli\Documents\Visual Studio 2013\Projects\Corki - The daring bombardier\Corki - The daring bombardier\bin\Debug\SharpDX.Direct3D9.dll
+C:\Users\Eli\Documents\Visual Studio 2013\Projects\Corki - The daring bombardier\Corki - The daring bombardier\bin\Debug\EloBuddy.Sandbox.dll
+C:\Users\Eli\Documents\Visual Studio 2013\Projects\Corki - The daring bombardier\Corki - The daring bombardier\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Eli\Documents\Visual Studio 2013\Projects\Corki - The daring bombardier\Corki - The daring bombardier\obj\Debug\Corki - The daring bombardier.exe
+C:\Users\Eli\Documents\Visual Studio 2013\Projects\Corki - The daring bombardier\Corki - The daring bombardier\obj\Debug\Corki - The daring bombardier.pdb
