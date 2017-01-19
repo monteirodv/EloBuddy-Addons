@@ -1,0 +1,12 @@
+C:\Users\Eli\Documents\Visual Studio 2013\Projects\Evelynn - The Widowmaker\Evelynn - The Widowmaker\bin\Release\Evelynn - The Widowmaker.exe.config
+C:\Users\Eli\Documents\Visual Studio 2013\Projects\Evelynn - The Widowmaker\Evelynn - The Widowmaker\bin\Release\Evelynn - The Widowmaker.exe
+C:\Users\Eli\Documents\Visual Studio 2013\Projects\Evelynn - The Widowmaker\Evelynn - The Widowmaker\bin\Release\Evelynn - The Widowmaker.pdb
+C:\Users\Eli\Documents\Visual Studio 2013\Projects\Evelynn - The Widowmaker\Evelynn - The Widowmaker\bin\Release\EloBuddy.dll
+C:\Users\Eli\Documents\Visual Studio 2013\Projects\Evelynn - The Widowmaker\Evelynn - The Widowmaker\bin\Release\EloBuddy.SDK.dll
+C:\Users\Eli\Documents\Visual Studio 2013\Projects\Evelynn - The Widowmaker\Evelynn - The Widowmaker\bin\Release\SharpDX.dll
+C:\Users\Eli\Documents\Visual Studio 2013\Projects\Evelynn - The Widowmaker\Evelynn - The Widowmaker\bin\Release\SharpDX.Direct3D9.dll
+C:\Users\Eli\Documents\Visual Studio 2013\Projects\Evelynn - The Widowmaker\Evelynn - The Widowmaker\bin\Release\EloBuddy.Sandbox.dll
+C:\Users\Eli\Documents\Visual Studio 2013\Projects\Evelynn - The Widowmaker\Evelynn - The Widowmaker\bin\Release\Newtonsoft.Json.dll
+C:\Users\Eli\Documents\Visual Studio 2013\Projects\Evelynn - The Widowmaker\Evelynn - The Widowmaker\obj\Release\Evelynn - The Widowmaker.csprojResolveAssemblyReference.cache
+C:\Users\Eli\Documents\Visual Studio 2013\Projects\Evelynn - The Widowmaker\Evelynn - The Widowmaker\obj\Release\Evelynn - The Widowmaker.exe
+C:\Users\Eli\Documents\Visual Studio 2013\Projects\Evelynn - The Widowmaker\Evelynn - The Widowmaker\obj\Release\Evelynn - The Widowmaker.pdb
