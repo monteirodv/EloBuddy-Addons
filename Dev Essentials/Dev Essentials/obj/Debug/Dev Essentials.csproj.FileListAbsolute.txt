@@ -1,0 +1,12 @@
+c:\users\eli\documents\visual studio 2013\Projects\Dev Essentials\Dev Essentials\bin\Debug\Dev Essentials.exe.config
+c:\users\eli\documents\visual studio 2013\Projects\Dev Essentials\Dev Essentials\obj\Debug\Dev Essentials.csprojResolveAssemblyReference.cache
+c:\users\eli\documents\visual studio 2013\Projects\Dev Essentials\Dev Essentials\bin\Debug\Dev Essentials.exe
+c:\users\eli\documents\visual studio 2013\Projects\Dev Essentials\Dev Essentials\bin\Debug\Dev Essentials.pdb
+c:\users\eli\documents\visual studio 2013\Projects\Dev Essentials\Dev Essentials\bin\Debug\EloBuddy.dll
+c:\users\eli\documents\visual studio 2013\Projects\Dev Essentials\Dev Essentials\bin\Debug\EloBuddy.SDK.dll
+c:\users\eli\documents\visual studio 2013\Projects\Dev Essentials\Dev Essentials\bin\Debug\SharpDX.dll
+c:\users\eli\documents\visual studio 2013\Projects\Dev Essentials\Dev Essentials\bin\Debug\SharpDX.Direct3D9.dll
+c:\users\eli\documents\visual studio 2013\Projects\Dev Essentials\Dev Essentials\bin\Debug\EloBuddy.Sandbox.dll
+c:\users\eli\documents\visual studio 2013\Projects\Dev Essentials\Dev Essentials\bin\Debug\Newtonsoft.Json.dll
+c:\users\eli\documents\visual studio 2013\Projects\Dev Essentials\Dev Essentials\obj\Debug\Dev Essentials.exe
+c:\users\eli\documents\visual studio 2013\Projects\Dev Essentials\Dev Essentials\obj\Debug\Dev Essentials.pdb
