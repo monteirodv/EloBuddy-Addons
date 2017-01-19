@@ -1,0 +1,12 @@
+C:\Users\Eli\Documents\Visual Studio 2013\Projects\Gank Helper\Gank Helper\bin\Release\Gank Helper.exe.config
+C:\Users\Eli\Documents\Visual Studio 2013\Projects\Gank Helper\Gank Helper\bin\Release\Gank Helper.exe
+C:\Users\Eli\Documents\Visual Studio 2013\Projects\Gank Helper\Gank Helper\bin\Release\Gank Helper.pdb
+C:\Users\Eli\Documents\Visual Studio 2013\Projects\Gank Helper\Gank Helper\bin\Release\EloBuddy.dll
+C:\Users\Eli\Documents\Visual Studio 2013\Projects\Gank Helper\Gank Helper\bin\Release\EloBuddy.SDK.dll
+C:\Users\Eli\Documents\Visual Studio 2013\Projects\Gank Helper\Gank Helper\bin\Release\SharpDX.dll
+C:\Users\Eli\Documents\Visual Studio 2013\Projects\Gank Helper\Gank Helper\bin\Release\SharpDX.Direct3D9.dll
+C:\Users\Eli\Documents\Visual Studio 2013\Projects\Gank Helper\Gank Helper\bin\Release\EloBuddy.Sandbox.dll
+C:\Users\Eli\Documents\Visual Studio 2013\Projects\Gank Helper\Gank Helper\bin\Release\Newtonsoft.Json.dll
+C:\Users\Eli\Documents\Visual Studio 2013\Projects\Gank Helper\Gank Helper\obj\Release\Gank Helper.csprojResolveAssemblyReference.cache
+C:\Users\Eli\Documents\Visual Studio 2013\Projects\Gank Helper\Gank Helper\obj\Release\Gank Helper.exe
+C:\Users\Eli\Documents\Visual Studio 2013\Projects\Gank Helper\Gank Helper\obj\Release\Gank Helper.pdb
