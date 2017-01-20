@@ -221,18 +221,13 @@ namespace Evelynn
         }
         private static void JungleClear()
         {
-             foreach (var monster in EntityManager.MinionsAndMonsters.GetJungleMonsters().Where(m => m.IsMonster
-                                                                                                    && !m.IsDead))
-             {
-                 if (monster.Distance(ObjectManager.Player) <= Q.Range)
-                 {
+            var target = EntityManager.MinionsAndMonsters.GetJungleMonsters().OrderByDescending(a => a.MaxHealth).FirstOrDefault(a => a.IsValidTarget(900));
+            Drawing.DrawText(Game.CursorPos2D.X, Game.CursorPos2D.Y, System.Drawing.Color.Black, "AAAAAAAAAAAAA");
+
                      Q.Cast();
-                 }
-                 if (monster.Distance(ObjectManager.Player) <= E.Range)
-                 {
-                     E.Cast(monster);
-                 }
-             }
+
+                     E.Cast(target);
+             
 
         }
     }
