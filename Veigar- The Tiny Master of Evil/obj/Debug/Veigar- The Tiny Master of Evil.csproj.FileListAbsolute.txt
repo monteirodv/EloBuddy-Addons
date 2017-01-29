@@ -1,1 +1,2 @@
 c:\users\eli\documents\visual studio 2013\Projects\Veigar- The Tiny Master of Evil\Veigar- The Tiny Master of Evil\bin\Debug\Veigar- The Tiny Master of Evil.exe.config
+C:\Users\Eli\Documents\GitHub\EloBuddy-Addons\Veigar- The Tiny Master of Evil\bin\Debug\Veigar- The Tiny Master of Evil.exe.config

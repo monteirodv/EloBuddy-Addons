@@ -125,13 +125,13 @@ namespace Veigar
 
         private static void Combo()
         {
-            var target = TargetSelector.GetTarget(Q.Range, DamageType.Magical);
+            var target = TargetSelector.GetTarget(E.Range, DamageType.Magical);
 
             if (target == null)
                 return;
             if (ComboMenu["UseQ"].Cast<CheckBox>().CurrentValue)
             {
-                if (target.Distance(ObjectManager.Player) <= Q.Range && Q.IsReady())
+                if (target.IsInRange(Player, Q.Range) && Q.IsReady())
                 {
 
                     if (Q.GetPrediction(target).HitChance >= HitChance.High)
@@ -158,7 +158,7 @@ namespace Veigar
             }
             if (ComboMenu["UseR"].Cast<CheckBox>().CurrentValue)
             {
-                if (target.Distance(ObjectManager.Player) <= 5000 && R.IsReady() && Player.GetSpellDamage(target, SpellSlot.R) >= target.Health) ;
+                if (target.IsInRange(Player, R.Range) && R.IsReady() && Player.GetSpellDamage(target, SpellSlot.R) >= target.Health)
                 {
 
                     R.Cast(target);
