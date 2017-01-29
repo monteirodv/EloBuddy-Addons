@@ -1,0 +1,12 @@
+C:\Users\Eli\Documents\Visual Studio 2013\Projects\Enemy Vision\Enemy Vision\bin\Release\Enemy Vision.exe.config
+C:\Users\Eli\Documents\Visual Studio 2013\Projects\Enemy Vision\Enemy Vision\bin\Release\Enemy Vision.exe
+C:\Users\Eli\Documents\Visual Studio 2013\Projects\Enemy Vision\Enemy Vision\bin\Release\Enemy Vision.pdb
+C:\Users\Eli\Documents\Visual Studio 2013\Projects\Enemy Vision\Enemy Vision\bin\Release\EloBuddy.dll
+C:\Users\Eli\Documents\Visual Studio 2013\Projects\Enemy Vision\Enemy Vision\bin\Release\EloBuddy.SDK.dll
+C:\Users\Eli\Documents\Visual Studio 2013\Projects\Enemy Vision\Enemy Vision\bin\Release\SharpDX.dll
+C:\Users\Eli\Documents\Visual Studio 2013\Projects\Enemy Vision\Enemy Vision\bin\Release\SharpDX.Direct3D9.dll
+C:\Users\Eli\Documents\Visual Studio 2013\Projects\Enemy Vision\Enemy Vision\bin\Release\EloBuddy.Sandbox.dll
+C:\Users\Eli\Documents\Visual Studio 2013\Projects\Enemy Vision\Enemy Vision\bin\Release\Newtonsoft.Json.dll
+C:\Users\Eli\Documents\Visual Studio 2013\Projects\Enemy Vision\Enemy Vision\obj\Release\Enemy Vision.csprojResolveAssemblyReference.cache
+C:\Users\Eli\Documents\Visual Studio 2013\Projects\Enemy Vision\Enemy Vision\obj\Release\Enemy Vision.exe
+C:\Users\Eli\Documents\Visual Studio 2013\Projects\Enemy Vision\Enemy Vision\obj\Release\Enemy Vision.pdb
