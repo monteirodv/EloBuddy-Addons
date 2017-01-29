@@ -1,0 +1,12 @@
+C:\Users\Eli\Documents\Visual Studio 2013\Projects\Fake Server Messages\Fake Server Messages\bin\Release\Fake Server Messages.exe.config
+C:\Users\Eli\Documents\Visual Studio 2013\Projects\Fake Server Messages\Fake Server Messages\bin\Release\Fake Server Messages.exe
+C:\Users\Eli\Documents\Visual Studio 2013\Projects\Fake Server Messages\Fake Server Messages\bin\Release\Fake Server Messages.pdb
+C:\Users\Eli\Documents\Visual Studio 2013\Projects\Fake Server Messages\Fake Server Messages\bin\Release\EloBuddy.dll
+C:\Users\Eli\Documents\Visual Studio 2013\Projects\Fake Server Messages\Fake Server Messages\bin\Release\EloBuddy.SDK.dll
+C:\Users\Eli\Documents\Visual Studio 2013\Projects\Fake Server Messages\Fake Server Messages\bin\Release\SharpDX.dll
+C:\Users\Eli\Documents\Visual Studio 2013\Projects\Fake Server Messages\Fake Server Messages\bin\Release\SharpDX.Direct3D9.dll
+C:\Users\Eli\Documents\Visual Studio 2013\Projects\Fake Server Messages\Fake Server Messages\bin\Release\EloBuddy.Sandbox.dll
+C:\Users\Eli\Documents\Visual Studio 2013\Projects\Fake Server Messages\Fake Server Messages\bin\Release\Newtonsoft.Json.dll
+C:\Users\Eli\Documents\Visual Studio 2013\Projects\Fake Server Messages\Fake Server Messages\obj\Release\Fake Server Messages.csprojResolveAssemblyReference.cache
+C:\Users\Eli\Documents\Visual Studio 2013\Projects\Fake Server Messages\Fake Server Messages\obj\Release\Fake Server Messages.exe
+C:\Users\Eli\Documents\Visual Studio 2013\Projects\Fake Server Messages\Fake Server Messages\obj\Release\Fake Server Messages.pdb

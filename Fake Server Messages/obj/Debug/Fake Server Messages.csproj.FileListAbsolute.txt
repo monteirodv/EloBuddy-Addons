@@ -1,0 +1,2 @@
+c:\users\eli\documents\visual studio 2013\Projects\Fake Server Messages\Fake Server Messages\bin\Debug\Fake Server Messages.exe.config
+C:\Users\Eli\documents\visual studio 2013\Projects\Fake Server Messages\Fake Server Messages\obj\Debug\Fake Server Messages.csprojResolveAssemblyReference.cache
