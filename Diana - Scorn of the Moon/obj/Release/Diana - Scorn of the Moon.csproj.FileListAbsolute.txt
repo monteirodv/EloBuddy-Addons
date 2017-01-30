@@ -1,0 +1,12 @@
+C:\Users\Eli\Documents\Visual Studio 2013\Projects\Diana - Scorn of the Moon\Diana - Scorn of the Moon\bin\Release\Diana - Scorn of the Moon.exe.config
+C:\Users\Eli\Documents\Visual Studio 2013\Projects\Diana - Scorn of the Moon\Diana - Scorn of the Moon\bin\Release\Diana - Scorn of the Moon.exe
+C:\Users\Eli\Documents\Visual Studio 2013\Projects\Diana - Scorn of the Moon\Diana - Scorn of the Moon\bin\Release\Diana - Scorn of the Moon.pdb
+C:\Users\Eli\Documents\Visual Studio 2013\Projects\Diana - Scorn of the Moon\Diana - Scorn of the Moon\bin\Release\EloBuddy.dll
+C:\Users\Eli\Documents\Visual Studio 2013\Projects\Diana - Scorn of the Moon\Diana - Scorn of the Moon\bin\Release\EloBuddy.SDK.dll
+C:\Users\Eli\Documents\Visual Studio 2013\Projects\Diana - Scorn of the Moon\Diana - Scorn of the Moon\bin\Release\SharpDX.dll
+C:\Users\Eli\Documents\Visual Studio 2013\Projects\Diana - Scorn of the Moon\Diana - Scorn of the Moon\bin\Release\SharpDX.Direct3D9.dll
+C:\Users\Eli\Documents\Visual Studio 2013\Projects\Diana - Scorn of the Moon\Diana - Scorn of the Moon\bin\Release\EloBuddy.Sandbox.dll
+C:\Users\Eli\Documents\Visual Studio 2013\Projects\Diana - Scorn of the Moon\Diana - Scorn of the Moon\bin\Release\Newtonsoft.Json.dll
+C:\Users\Eli\Documents\Visual Studio 2013\Projects\Diana - Scorn of the Moon\Diana - Scorn of the Moon\obj\Release\Diana - Scorn of the Moon.csprojResolveAssemblyReference.cache
+C:\Users\Eli\Documents\Visual Studio 2013\Projects\Diana - Scorn of the Moon\Diana - Scorn of the Moon\obj\Release\Diana - Scorn of the Moon.exe
+C:\Users\Eli\Documents\Visual Studio 2013\Projects\Diana - Scorn of the Moon\Diana - Scorn of the Moon\obj\Release\Diana - Scorn of the Moon.pdb
