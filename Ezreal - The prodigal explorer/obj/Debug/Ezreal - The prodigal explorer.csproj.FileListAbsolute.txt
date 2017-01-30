@@ -10,3 +10,6 @@ c:\users\eli\documents\visual studio 2013\Projects\Ezreal - The prodigal explore
 c:\users\eli\documents\visual studio 2013\Projects\Ezreal - The prodigal explorer\Ezreal - The prodigal explorer\bin\Debug\Newtonsoft.Json.dll
 c:\users\eli\documents\visual studio 2013\Projects\Ezreal - The prodigal explorer\Ezreal - The prodigal explorer\obj\Debug\Ezreal - The prodigal explorer.exe
 c:\users\eli\documents\visual studio 2013\Projects\Ezreal - The prodigal explorer\Ezreal - The prodigal explorer\obj\Debug\Ezreal - The prodigal explorer.pdb
+C:\Users\Eli\Documents\GitHub\EloBuddy-Addons\Ezreal - The prodigal explorer\bin\Debug\Ezreal - The prodigal explorer.exe.config
+C:\Users\Eli\Documents\GitHub\EloBuddy-Addons\Ezreal - The prodigal explorer\obj\Debug\Ezreal - The prodigal explorer.exe
+C:\Users\Eli\Documents\GitHub\EloBuddy-Addons\Ezreal - The prodigal explorer\obj\Debug\Ezreal - The prodigal explorer.pdb

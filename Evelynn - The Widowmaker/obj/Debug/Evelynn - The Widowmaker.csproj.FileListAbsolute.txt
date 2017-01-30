@@ -1,1 +1,2 @@
 c:\users\eli\documents\visual studio 2013\Projects\Evelynn - The Widowmaker\Evelynn - The Widowmaker\bin\Debug\Evelynn - The Widowmaker.exe.config
+C:\Users\Eli\Documents\GitHub\EloBuddy-Addons\Evelynn - The Widowmaker\bin\Debug\Evelynn - The Widowmaker.exe.config

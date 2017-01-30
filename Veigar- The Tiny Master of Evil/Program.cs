@@ -136,7 +136,7 @@ namespace Veigar
 
                     if (Q.GetPrediction(target).HitChance >= HitChance.High)
                     {
-                        Q.Cast(target);
+                        Q.Cast(Q.GetPrediction(target).CastPosition);
                     }
 
 
@@ -146,14 +146,14 @@ namespace Veigar
             {
                 if (W.GetPrediction(target).HitChance >= HitChance.High && !E.IsReady())
                 {
-                    W.Cast(target);
+                    W.Cast(W.GetPrediction(target).CastPosition);
                 }
             }
             if (ComboMenu["UseE"].Cast<CheckBox>().CurrentValue)
             {
                 if (E.GetPrediction(target).HitChance >= HitChance.High)
                 {
-                    E.Cast(target);
+                    E.Cast(E.GetPrediction(target).CastPosition);
                 }
             }
             if (ComboMenu["UseR"].Cast<CheckBox>().CurrentValue)
@@ -183,7 +183,7 @@ namespace Veigar
 
                     if (Q.GetPrediction(target).HitChance >= HitChance.High)
                     {
-                        Q.Cast(target);
+                        Q.Cast(Q.GetPrediction(target).CastPosition);
                     }
 
 
@@ -196,7 +196,7 @@ namespace Veigar
 
                     if (W.GetPrediction(target).HitChance >= HitChance.High)
                     {
-                        W.Cast(target);
+                        W.Cast(W.GetPrediction(target).CastPosition);
                     }
 
 

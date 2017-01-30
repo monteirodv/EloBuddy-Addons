@@ -1,1 +1,2 @@
 c:\users\eli\documents\visual studio 2013\Projects\Diana - Scorn of the Moon\Diana - Scorn of the Moon\bin\Debug\Diana - Scorn of the Moon.exe.config
+C:\Users\Eli\Documents\GitHub\EloBuddy-Addons\Diana - Scorn of the Moon\bin\Debug\Diana - Scorn of the Moon.exe.config

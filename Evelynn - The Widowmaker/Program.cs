@@ -157,7 +157,7 @@ namespace Evelynn
 
                     if (R.GetPrediction(target).HitChance >= HitChance.High)
                     {
-                        R.Cast(target);
+                        R.Cast(R.GetPrediction(target).CastPosition);
                     }
 
 

@@ -10,3 +10,6 @@ C:\Users\Eli\Documents\Visual Studio 2013\Projects\Corki - The daring bombardier
 C:\Users\Eli\Documents\Visual Studio 2013\Projects\Corki - The daring bombardier\Corki - The daring bombardier\bin\Debug\Newtonsoft.Json.dll
 C:\Users\Eli\Documents\Visual Studio 2013\Projects\Corki - The daring bombardier\Corki - The daring bombardier\obj\Debug\Corki - The daring bombardier.exe
 C:\Users\Eli\Documents\Visual Studio 2013\Projects\Corki - The daring bombardier\Corki - The daring bombardier\obj\Debug\Corki - The daring bombardier.pdb
+C:\Users\Eli\Documents\GitHub\EloBuddy-Addons\Corki - The daring bombardier\bin\Debug\Corki - The daring bombardier.exe.config
+C:\Users\Eli\Documents\GitHub\EloBuddy-Addons\Corki - The daring bombardier\obj\Debug\Corki - The daring bombardier.exe
+C:\Users\Eli\Documents\GitHub\EloBuddy-Addons\Corki - The daring bombardier\obj\Debug\Corki - The daring bombardier.pdb

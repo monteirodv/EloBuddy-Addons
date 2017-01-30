@@ -136,7 +136,7 @@ namespace AddonTemplate
                     
                     if (Q.GetPrediction(target).HitChance >= HitChance.High)
                     {
-                        Q.Cast(target);
+                        Q.Cast(Q.GetPrediction(target).CastPosition);
                     }
 
 
@@ -147,7 +147,7 @@ namespace AddonTemplate
                 if (target.Distance(ObjectManager.Player) <= W.Range && W.IsReady())
                 {
 
-                        W.Cast(target);
+                    W.Cast(W.GetPrediction(target).CastPosition);
            
 
 
@@ -190,7 +190,7 @@ namespace AddonTemplate
 
                     if (Q.GetPrediction(target).HitChance >= HitChance.High)
                     {
-                        Q.Cast(target);
+                        Q.Cast(Q.GetPrediction(target).CastPosition);
                     }
 
 
@@ -201,7 +201,7 @@ namespace AddonTemplate
                 if (target.Distance(ObjectManager.Player) <= W.Range && W.IsReady())
                 {
 
-                    W.Cast(target);
+                    W.Cast(W.GetPrediction(target).CastPosition);
 
 
 

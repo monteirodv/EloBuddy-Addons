@@ -140,7 +140,7 @@ namespace Diana___Scorn_of_the_Moon
 
                     if (Q.GetPrediction(target).HitChance >= HitChance.High)
                     {
-                        Q.Cast(target);
+                        Q.Cast(Q.GetPrediction(target).CastPosition);
                     }
 
 
@@ -194,7 +194,7 @@ namespace Diana___Scorn_of_the_Moon
 
                     if (Q.GetPrediction(target).HitChance >= HitChance.High)
                     {
-                        Q.Cast(target);
+                        Q.Cast(Q.GetPrediction(target).CastPosition);
                     }
 
 

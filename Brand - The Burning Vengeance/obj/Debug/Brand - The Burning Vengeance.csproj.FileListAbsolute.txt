@@ -10,3 +10,6 @@ c:\users\eli\documents\visual studio 2013\Projects\Brand - The Burning Vengeance
 c:\users\eli\documents\visual studio 2013\Projects\Brand - The Burning Vengeance\Brand - The Burning Vengeance\bin\Debug\Newtonsoft.Json.dll
 c:\users\eli\documents\visual studio 2013\Projects\Brand - The Burning Vengeance\Brand - The Burning Vengeance\obj\Debug\Brand - The Burning Vengeance.exe
 c:\users\eli\documents\visual studio 2013\Projects\Brand - The Burning Vengeance\Brand - The Burning Vengeance\obj\Debug\Brand - The Burning Vengeance.pdb
+C:\Users\Eli\Documents\GitHub\EloBuddy-Addons\Brand - The Burning Vengeance\bin\Debug\Brand - The Burning Vengeance.exe.config
+C:\Users\Eli\Documents\GitHub\EloBuddy-Addons\Brand - The Burning Vengeance\obj\Debug\Brand - The Burning Vengeance.exe
+C:\Users\Eli\Documents\GitHub\EloBuddy-Addons\Brand - The Burning Vengeance\obj\Debug\Brand - The Burning Vengeance.pdb
