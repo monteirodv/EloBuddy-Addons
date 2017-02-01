@@ -230,9 +230,15 @@ namespace Cait
         {
             if (FarmingMenu["Qclearmana"].Cast<Slider>().CurrentValue <= Player.ManaPercent)
             {
-                var minion1 = EntityManager.MinionsAndMonsters.EnemyMinions.FirstOrDefault(m => m.IsValidTarget(Q.Range));
-
-                Q.Cast(minion1);
+            var minions = EntityManager.MinionsAndMonsters.EnemyMinions.Where(t => t.IsEnemy && !t.IsDead && t.IsValid && !t.IsInvulnerable && t.IsInRange(Player.Position, Q.Range));
+                foreach (var m in minions)
+                {
+                    if (Q.GetPrediction(m).CollisionObjects.Where(t => t.IsEnemy && !t.IsDead && t.IsValid && !t.IsInvulnerable).Count() >= 3)
+                    {
+                        Q.Cast(m);
+                        break;
+                    }
+                }
 
             }
 
