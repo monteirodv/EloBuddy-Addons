@@ -1,0 +1,12 @@
+C:\Users\Eli\Documents\Visual Studio 2013\Projects\Thresh - The Chain Warden\Thresh - The Chain Warden\bin\Release\Thresh - The Chain Warden.exe.config
+C:\Users\Eli\Documents\Visual Studio 2013\Projects\Thresh - The Chain Warden\Thresh - The Chain Warden\bin\Release\Thresh - The Chain Warden.exe
+C:\Users\Eli\Documents\Visual Studio 2013\Projects\Thresh - The Chain Warden\Thresh - The Chain Warden\bin\Release\Thresh - The Chain Warden.pdb
+C:\Users\Eli\Documents\Visual Studio 2013\Projects\Thresh - The Chain Warden\Thresh - The Chain Warden\bin\Release\EloBuddy.dll
+C:\Users\Eli\Documents\Visual Studio 2013\Projects\Thresh - The Chain Warden\Thresh - The Chain Warden\bin\Release\EloBuddy.SDK.dll
+C:\Users\Eli\Documents\Visual Studio 2013\Projects\Thresh - The Chain Warden\Thresh - The Chain Warden\bin\Release\SharpDX.dll
+C:\Users\Eli\Documents\Visual Studio 2013\Projects\Thresh - The Chain Warden\Thresh - The Chain Warden\bin\Release\SharpDX.Direct3D9.dll
+C:\Users\Eli\Documents\Visual Studio 2013\Projects\Thresh - The Chain Warden\Thresh - The Chain Warden\bin\Release\EloBuddy.Sandbox.dll
+C:\Users\Eli\Documents\Visual Studio 2013\Projects\Thresh - The Chain Warden\Thresh - The Chain Warden\bin\Release\Newtonsoft.Json.dll
+C:\Users\Eli\Documents\Visual Studio 2013\Projects\Thresh - The Chain Warden\Thresh - The Chain Warden\obj\Release\Thresh - The Chain Warden.csprojResolveAssemblyReference.cache
+C:\Users\Eli\Documents\Visual Studio 2013\Projects\Thresh - The Chain Warden\Thresh - The Chain Warden\obj\Release\Thresh - The Chain Warden.exe
+C:\Users\Eli\Documents\Visual Studio 2013\Projects\Thresh - The Chain Warden\Thresh - The Chain Warden\obj\Release\Thresh - The Chain Warden.pdb

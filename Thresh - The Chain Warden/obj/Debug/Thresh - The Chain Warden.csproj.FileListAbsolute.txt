@@ -1,0 +1,2 @@
+c:\users\eli\documents\visual studio 2013\Projects\Thresh - The Chain Warden\Thresh - The Chain Warden\bin\Debug\Thresh - The Chain Warden.exe.config
+c:\users\eli\documents\visual studio 2013\Projects\Thresh - The Chain Warden\Thresh - The Chain Warden\obj\Debug\Thresh - The Chain Warden.csprojResolveAssemblyReference.cache
