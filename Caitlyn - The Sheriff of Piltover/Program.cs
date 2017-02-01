@@ -105,14 +105,7 @@ namespace Cait
                     throw new ArgumentOutOfRangeException();
             }
         }
-         private static void OnProcessSpellCast(Obj_AI_Base sender, GameObjectProcessSpellCastEventArgs args)
-        {
-             if (sender.IsInRange(Player, W.Range) && sender.IsEnemy)
-             {
-                 W.Cast(sender.ServerPosition);
-                 Q.Cast(sender.ServerPosition);
-             }
-        }
+
          private static void Gapcloser_OnGapCloser(AIHeroClient sender, Gapcloser.GapcloserEventArgs gapcloser)
          {
              if (sender.IsAlly)
