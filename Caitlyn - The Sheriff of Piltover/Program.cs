@@ -14,20 +14,9 @@ namespace Cait
 {
     class Program
     {
-        private static AIHeroClient Player
-        {
-            get
-            {
-                return ObjectManager.Player;
-            }
-        }
+        private static AIHeroClient Player { get { return ObjectManager.Player; } }
 
-        private static Menu RootMenu,
-        ComboMenu,
-        HarassMenu,
-        FarmingMenu,
-        ksMenu,
-        DrawingsMenu;
+        private static Menu RootMenu, ComboMenu, HarassMenu, FarmingMenu, ksMenu, DrawingsMenu;
 
         public static Spell.Skillshot Q;
         public static Spell.Skillshot W;
@@ -63,12 +52,14 @@ namespace Cait
             HarassMenu.Add("UseQ", new CheckBox("Use Q when player is processing spell or cc'd"));
             HarassMenu.Add("QHarassmana", new Slider("Min mana to harass with Q %", 30, 0, 100));
 
+
             FarmingMenu = RootMenu.AddSubMenu("Farming", "farming");
 
             FarmingMenu.Add("Qclear", new CheckBox("Use Q to clear wave"));
             FarmingMenu.Add("Qclearmana", new Slider("Q mana to clear %", 30, 0, 100));
 
             FarmingMenu.Add("Qclearjg", new CheckBox("Use Q to clear jungle"));
+
 
             DrawingsMenu = RootMenu.AddSubMenu("Drawings", "Drawings");
 
@@ -81,14 +72,13 @@ namespace Cait
             Drawing.OnDraw += Drawing_OnDraw;
             Obj_AI_Base.OnProcessSpellCast += OnProcessSpellCast;
             Gapcloser.OnGapcloser += Gapcloser_OnGapCloser;
-            Interrupter.OnInterruptableSpell += Interrupter_OnInterruptableSpell;
 
         }
 
         private static void Game_OnTick(EventArgs args)
         {
             var target = TargetSelector.GetTarget(W.Range, DamageType.Physical);
-            if (target.IsRooted || target.IsStunned || target.IsTaunted)
+            if ( target.IsRooted || target.IsStunned || target.IsTaunted )
             {
                 W.Cast(target.ServerPosition);
             }
@@ -115,31 +105,23 @@ namespace Cait
                     throw new ArgumentOutOfRangeException();
             }
         }
-        private static void Interrupter_OnInterruptableSpell(Obj_AI_Base sender, Interrupter.InterruptableSpellEventArgs args)
+         private static void OnProcessSpellCast(Obj_AI_Base sender, GameObjectProcessSpellCastEventArgs args)
         {
-            if (sender.IsAlly)
-            {
-                return;
-            }
+             if (sender.IsInRange(Player, W.Range) && sender.IsEnemy)
+             {
+                 W.Cast(sender.ServerPosition);
+                 Q.Cast(sender.ServerPosition);
+             }
+        }
+         private static void Gapcloser_OnGapCloser(AIHeroClient sender, Gapcloser.GapcloserEventArgs gapcloser)
+         {
+             if (sender.IsAlly)
+             {
+                 return;
+             }
+             E.Cast(sender.ServerPosition);
 
-            W.Cast(sender.ServerPosition);
-        }
-        private static void OnProcessSpellCast(Obj_AI_Base sender, GameObjectProcessSpellCastEventArgs args)
-        {
-            if (sender.IsInRange(Player, W.Range) && sender.IsEnemy)
-            {
-                W.Cast(sender.ServerPosition);
-            }
-        }
-        private static void Gapcloser_OnGapCloser(AIHeroClient sender, Gapcloser.GapcloserEventArgs gapcloser)
-        {
-            if (sender.IsAlly)
-            {
-                return;
-            }
-            E.Cast(sender.ServerPosition);
-
-        }
+         }
 
         private static void Drawing_OnDraw(EventArgs args)
         {
@@ -158,7 +140,8 @@ namespace Cait
             }
             if (DrawingsMenu["DrawQpred"].Cast<CheckBox>().CurrentValue)
             {
-                if (target == null) return;
+                if (target == null)
+                    return;
                 Drawing.DrawCircle(Q.GetPrediction(target).CastPosition, 150, System.Drawing.Color.Red);
 
             }
@@ -168,7 +151,8 @@ namespace Cait
         {
             var target = TargetSelector.GetTarget(Q.Range, DamageType.Magical);
 
-            if (target == null) return;
+            if (target == null)
+                return;
             if (ComboMenu["UseQ"].Cast<CheckBox>().CurrentValue)
             {
                 if (target.IsInRange(Player, Q.Range) && Q.IsReady())
@@ -179,6 +163,7 @@ namespace Cait
                         Q.Cast(Q.GetPrediction(target).CastPosition);
                     }
 
+
                 }
             }
             if (ComboMenu["UseW"].Cast<CheckBox>().CurrentValue)
@@ -187,6 +172,8 @@ namespace Cait
                 {
 
                     W.Cast(target.ServerPosition);
+
+
 
                 }
             }
@@ -197,24 +184,29 @@ namespace Cait
 
                     E.Cast(E.GetPrediction(target).CastPosition);
 
+
                 }
             }
             if (ComboMenu["UseR"].Cast<CheckBox>().CurrentValue)
             {
-                if (target.IsInRange(Player, R.Range) && R.IsReady() && R.GetSpellDamage(target) >= target.Health)
+                if (target.IsInRange(Player, R.Range) && !Q.IsReady() && R.GetSpellDamage(target) >= target.Health)
                 {
 
                     R.Cast(target);
 
+
+
                 }
             }
+
 
         }
         private static void Harass()
         {
             var target = TargetSelector.GetTarget(Q.Range, DamageType.Magical);
 
-            if (target == null) return;
+            if (target == null)
+                return;
             if (HarassMenu["UseQ"].Cast<CheckBox>().CurrentValue && HarassMenu["QHarassmana"].Cast<Slider>().CurrentValue <= Player.ManaPercent)
             {
                 if (target.IsInRange(Player, Q.Range) && Q.IsReady())
@@ -225,8 +217,12 @@ namespace Cait
                         Q.Cast(Q.GetPrediction(target).CastPosition);
                     }
 
+
                 }
             }
+
+
+
 
         }
 
@@ -239,6 +235,7 @@ namespace Cait
                 Q.Cast(minion1);
 
             }
+
 
         }
         private static void JungleClear()
