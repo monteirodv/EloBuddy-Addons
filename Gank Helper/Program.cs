@@ -59,7 +59,7 @@ namespace AddonTemplate
                         Drawing.DrawText(mypos.X - 10, mypos.Y - extra, System.Drawing.Color.Red, "Can Gank:" + enemy.ChampionName.ToString() + " HP:" + enemy.HealthPercent.ToString() + "%");
                         
                     }
-                    }
+                    } //oi
                 }
         }
     }
